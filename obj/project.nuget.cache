@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qXRR2OzBa8MEpshu5XPvKjSEeNIBy8+OMe/J9J2WslOk+5pbCxDEPJjg4CV94I8iGUiEuPo67L6LmSHHc7lqEw==",
+  "dgSpecHash": "mtPYibHLa8KngAZzOhmEPblSLcOvnk5d+Y6UafrqqbxKoLUB0iVCeEPJ7KJBORSghkSCbtvQIq0vSeiNGW3c/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandris\\OneDrive - AMECO vide\\Desktop\\usersAPI\\usersAPI.csproj",
+  "projectFilePath": "C:\\GIT\\usersAPI_backup\\usersAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandris\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
     "C:\\Users\\Sandris\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.5\\microsoft.entityframeworkcore.8.0.5.nupkg.sha512",

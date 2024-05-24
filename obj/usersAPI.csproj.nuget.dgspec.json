@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sandris\\OneDrive - AMECO vide\\Desktop\\usersAPI\\usersAPI.csproj": {}
+    "C:\\GIT\\usersAPI_backup\\usersAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sandris\\OneDrive - AMECO vide\\Desktop\\usersAPI\\usersAPI.csproj": {
+    "C:\\GIT\\usersAPI_backup\\usersAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandris\\OneDrive - AMECO vide\\Desktop\\usersAPI\\usersAPI.csproj",
+        "projectUniqueName": "C:\\GIT\\usersAPI_backup\\usersAPI.csproj",
         "projectName": "usersAPI",
-        "projectPath": "C:\\Users\\Sandris\\OneDrive - AMECO vide\\Desktop\\usersAPI\\usersAPI.csproj",
+        "projectPath": "C:\\GIT\\usersAPI_backup\\usersAPI.csproj",
         "packagesPath": "C:\\Users\\Sandris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandris\\OneDrive - AMECO vide\\Desktop\\usersAPI\\obj\\",
+        "outputPath": "C:\\GIT\\usersAPI_backup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sandris\\AppData\\Roaming\\NuGet\\NuGet.Config",
