@@ -1,0 +1,191 @@
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/appsettings.json
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/usersAPI
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/usersAPI.deps.json
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/usersAPI.runtimeconfig.json
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/usersAPI.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/usersAPI.pdb
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.csproj.AssemblyReference.cache
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.AssemblyInfoInputs.cache
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.AssemblyInfo.cs
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.csproj.CoreCompileInputs.cache
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/staticwebassets/msbuild.usersAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.usersAPI.props
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.usersAPI.props
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.usersAPI.props
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/scopedcss/bundle/usersAPI.styles.css
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.csproj.Up2Date
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.dll
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/refint/usersAPI.dll
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.pdb
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/usersAPI.genruntimeconfig.cache
+/Users/sandrisb/Desktop/usersAPI/obj/Debug/net8.0/ref/usersAPI.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sandrisb/Desktop/usersAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\usersAPI.exe
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\usersAPI.deps.json
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\usersAPI.runtimeconfig.json
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\usersAPI.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\usersAPI.pdb
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.csproj.AssemblyReference.cache
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.AssemblyInfoInputs.cache
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.AssemblyInfo.cs
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\staticwebassets\msbuild.usersAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.usersAPI.props
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.usersAPI.props
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.usersAPI.props
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\scopedcss\bundle\usersAPI.styles.css
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.csproj.Up2Date
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\refint\usersAPI.dll
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.pdb
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\usersAPI.genruntimeconfig.cache
+C:\Users\Sandris\OneDrive - AMECO vide\Desktop\usersAPI\obj\Debug\net8.0\ref\usersAPI.dll
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.csproj.AssemblyReference.cache
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.AssemblyInfoInputs.cache
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.AssemblyInfo.cs
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.csproj.CoreCompileInputs.cache
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\appsettings.Development.json
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\appsettings.json
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\usersAPI.exe
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\usersAPI.deps.json
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\usersAPI.runtimeconfig.json
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\usersAPI.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\usersAPI.pdb
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\usersAPI_backup\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\staticwebassets.build.json
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\staticwebassets.development.json
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\staticwebassets\msbuild.usersAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\staticwebassets\msbuild.build.usersAPI.props
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.usersAPI.props
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.usersAPI.props
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\scopedcss\bundle\usersAPI.styles.css
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.csproj.Up2Date
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.dll
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\refint\usersAPI.dll
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.pdb
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\usersAPI.genruntimeconfig.cache
+C:\GIT\usersAPI_backup\obj\Debug\net8.0\ref\usersAPI.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\appsettings.json
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\usersAPI.exe
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\usersAPI.deps.json
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\usersAPI.runtimeconfig.json
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\usersAPI.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\usersAPI.pdb
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\usersAPI_backup\UsersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.csproj.AssemblyReference.cache
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.AssemblyInfoInputs.cache
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.AssemblyInfo.cs
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.csproj.CoreCompileInputs.cache
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.usersAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.usersAPI.props
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.usersAPI.props
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.usersAPI.props
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\scopedcss\bundle\usersAPI.styles.css
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.csproj.Up2Date
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.dll
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\refint\usersAPI.dll
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.pdb
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\usersAPI.genruntimeconfig.cache
+C:\GIT\usersAPI_backup\UsersAPI\obj\Debug\net8.0\ref\usersAPI.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\appsettings.json
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\usersAPI.exe
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\usersAPI.deps.json
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\usersAPI.runtimeconfig.json
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\usersAPI.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\usersAPI.pdb
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\UsersAPI\UsersAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.csproj.AssemblyReference.cache
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.AssemblyInfoInputs.cache
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.AssemblyInfo.cs
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.csproj.CoreCompileInputs.cache
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.sourcelink.json
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.usersAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.usersAPI.props
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.usersAPI.props
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.usersAPI.props
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\scopedcss\bundle\usersAPI.styles.css
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.csproj.Up2Date
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.dll
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\refint\usersAPI.dll
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.pdb
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\usersAPI.genruntimeconfig.cache
+C:\GIT\UsersAPI\UsersAPI\obj\Debug\net8.0\ref\usersAPI.dll
